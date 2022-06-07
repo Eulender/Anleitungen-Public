@@ -3,4 +3,4 @@ Diverse Anleitungen
 
 ## Screenly OSE
 
-[Screenly OSE für Supplierpläne](/Screenly Installation.md)
+[Screenly OSE für Supplierpläne](/Screenly%20Installation.md)
