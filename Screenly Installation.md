@@ -78,11 +78,11 @@ Screenly OSE Api ([Link](https://ose.demo.screenlyapp.com/api/docs/#/))
 Beispiel:       
 Per Script weiterschalten 
 
-`curl -u user:password -X GET "https://url or ip/api/v1/assets/control/next%20" -H  "accept: application/json"`
+`curl -u user:password -X GET "https://url or ip/api/v1/assets/control/next" -H  "accept: application/json"`
 
 Liste der Assets
 
-`curl -u user:password -X GET "http://192.168.248.82/api/v1/assets `
+`curl -u user:password -X GET "http://url or ip/api/v1/assets `
 
 
 
