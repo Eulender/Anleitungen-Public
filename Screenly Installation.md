@@ -1,4 +1,5 @@
-# Installation Screenly OSE
+# Installation Anthias
+Webseite: https://anthias.screenly.io/
 
 ## Resourcen
 RaspberryPi 3B+ oder 4B 
@@ -14,9 +15,9 @@ HDMI bzw. Micro HDMI Kabel
 
 Raspberry booten und einloggen
 
-- Screenly OSE installieren ([Link](https://github.com/Screenly/screenly-ose))  
+- Screenly OSE installieren ([Link](https://github.com/Screenly/Anthias))  
 ```
-  $ bash <(curl -sL https://www.screenly.io/install-ose.sh)
+  bash <(curl -sL https://install-ose.srly.io)
 
 ```
 
